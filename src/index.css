@@ -76,6 +76,10 @@ button:focus-visible {
   outline: 4px auto -webkit-focus-ring-color;
 }
 
+p {
+  width: 15rem; 
+}
+
 hr {
   width: 15rem;
   border: 2px solid #f0f0f0;
